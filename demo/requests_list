@@ -1,0 +1,7 @@
+http://localhost:8080/add?mass=200&percent=50&mode=1
+
+localhost:8080/list
+
+http://localhost:8080/find?key=id&value=1
+
+http://localhost:8080/remove?key=result&value=100
